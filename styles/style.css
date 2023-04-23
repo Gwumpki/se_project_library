@@ -397,6 +397,13 @@
 
 .footer {
   box-sizing: border-box;
+  background-color: #1f1f1f;
+  color: white;
+  margin: 0;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  padding-left: 80px;
+  padding-right: 102px;
 }
 
 .footer__columns {
@@ -409,6 +416,8 @@
 }
 
 .footer__logo {
+  width: 116px;
+  height: 21px;
 }
 
 .footer__list {
