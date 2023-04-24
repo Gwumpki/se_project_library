@@ -31,7 +31,7 @@
 
 .nav__links {
   display: flex;
-  margin-top: 8px;
+  margin: 8px 0 0;
   column-gap: 20px;
   list-style: none;
   padding: 0;
@@ -64,7 +64,6 @@
 
 .header__image {
   z-index: 1;
-  margin: 0;
   max-width: 636px;
   position: absolute;
   top: 135px;
