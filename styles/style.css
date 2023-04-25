@@ -332,11 +332,10 @@
   flex-direction: row;
   justify-content: center;
   gap: 40px;
-  flex-basis: 220px;
 }
 
 .step {
-  width: 220px;
+  flex-basis: 220px;
 }
 
 .step__title {
