@@ -386,7 +386,10 @@
 .about__paragraph {
   margin: 0 0 32px;
   z-index: 1;
-  gap: 32px;
+}
+
+.about__paragraph:last-of-type {
+  margin-bottom: 0;
 }
 
 .about__circle {
