@@ -373,7 +373,6 @@
   z-index: 1;
   max-width: 154px;
   margin-right: 120px;
-  position: relative;
 }
 
 .about__content {
@@ -382,7 +381,6 @@
   font-weight: 400;
   max-width: 660px;
   z-index: 1;
-  position: relative;
 }
 
 .about__paragraph {
